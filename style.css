@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background: url('../image/djeprofil.png');
+    background: url('image/djeprofil.png');
     background-repeat: no-repeat;
     background-position: left;
     background-size: 40%;
@@ -634,6 +634,7 @@ form input, form textarea{
 }
 }
     
+
 
 
 
